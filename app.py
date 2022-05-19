@@ -9,7 +9,6 @@ import logging
 import random
 import re
 from logging.handlers import TimedRotatingFileHandler
-import pandas as pd
 
 from flask import Flask, render_template, request
 from flask_cors import CORS
