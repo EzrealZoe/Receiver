@@ -1,0 +1,233 @@
+/*黑白灰色彩定义*/
+.c0 { color: #000 }
+.c1 { color: #111 }
+.c2 { color: #222 }
+.c3 { color: #333 }
+.c4 { color: #444 }
+.c5 { color: #555 }
+.c6 { color: #666 }
+.c7 { color: #777 }
+.c8 { color: #888 }
+.c9 { color: #999 }
+.ca { color: #aaa }
+.cb { color: #bbb }
+.cc { color: #ccc }
+.cd { color: #ddd }
+.ce { color: #eee }
+.cf { color: #fff }
+/*彩色色彩定义*/
+.cl-red{color: #db2828}
+.cl-orange{color: #f2711c}
+.cl-yellow{color: #fbbd08}
+.cl-olive{color: #b5cc18}
+.cl-green{color: #21ba45}
+.cl-teal{color: #00b5ad}
+.cl-blue{color: #2185d0}
+.cl-violet{color: #6435c9}
+.cl-purple{color: #a333c8}
+.cl-pink{color: #e03997}
+.cl-brown{color: #a5673f}
+.cl-grey{color: #767676}
+.cl-black{color: #1b1c1d}
+/*彩色色彩定义*/
+.red { color: #ff0000; }
+.red-light { color: #ff2738; }
+.orange { color: #ff4a00; }
+.orange-light { color: #f39c12; }
+.yellow { color: #f1c40f; }
+.yellow-light { color: #ffe200; }
+.green { color: #16a085; }
+.green-light { color: #1abc9c; }
+.green2 { color: #27ae60; }
+.green2-light { color: #2ecc71; }
+.cyan { color: #00a1e9; }
+.cyan2 { color: #00baf3; }
+.cyan-light { color: #00adee; }
+.blue { color: #2980b9; }
+.blue-light { color: #3498db; }
+.purple { color: #8e44ad; }
+.purple-light { color: #9b59b6; }
+.pink { color: #e4007f; }
+.pink-light { color: #ff008e; }
+.gray { color: #bdc3c7; }
+.gray-light { color: #ecf0f1; }
+.fc1 { color: #8c7465; }
+.fc2 { color: #ee366a; }
+/*背景色彩定义*/
+.bg0 { background: #000 }
+.bg1 { background: #111 }
+.bg2 { background: #222 }
+.bg3 { background: #333 }
+.bg4 { background: #444 }
+.bg5 { background: #555 }
+.bg6 { background: #666 }
+.bg7 { background: #777 }
+.bg8 { background: #888 }
+.bg9 { background: #999 }
+.bga { background: #aaa }
+.bgb { background: #bbb }
+.bgc { background: #ccc }
+.bgd { background: #ddd }
+.bge { background: #eee }
+.bgf { background: #fff }
+.bgfa { background: #fafafa }
+.bgf6 { background: #f6f6f6 }
+/*多彩背景色彩定义*/
+.bg-red{background: #db2828}
+.bg-orange{background: #f2711c}
+.bg-yellow{background: #fbbd08}
+.bg-olive{background: #b5cc18}
+.bg-green{background: #21ba45}
+.bg-teal{background: #00b5ad}
+.bg-blue{background: #2185d0}
+.bg-violet{background: #6435c9}
+.bg-purple{background: #a333c8}
+.bg-pink{background: #e03997}
+.bg-brown{background: #a5673f}
+.bg-grey{background: #767676}
+.bg-black{background: #1b1c1d}
+/*字号定义*/
+.f12 { font: 12px/1.5 Arial, "宋体"; }
+.f13 { font: 13px/1.5 Arial, "宋体"; }
+.f14 { font: 14px/1.5 Arial, "宋体"; }
+.f15 { font: 15px/1.5 Arial, "宋体"; }
+.f16 { font: 16px/1.8 Arial, "宋体"; }
+.f18 { font-size: 18px; }
+.f22 { font-size: 22px; }
+.f24 { font-size: 24px; }
+.f32 { font-size: 32px; }
+.f48 { font-size: 48px; }
+.f64 { font-size: 64px; }
+/*字体定义*/
+.fss { font-family: Arial, "宋体", "simsun"; }
+.fwq { font-weight: 400; font-family: "Helvetica Neue", "Hiragino Sans GB", "Hiragino Sans GB W3", "WenQuanYi Micro Hei", "Microsoft YaHei UI", "Microsoft YaHei"; }
+.fyh { font-family: "Microsoft YaHei UI", "Microsoft YaHei", "微软雅黑"; }
+/*百分比宽度定义*/
+.w10 { width: 10%; }
+.w20 { width: 20%; }
+.w25 { width: 25%; }
+.w30 { width: 30%; }
+.w40 { width: 40%; }
+.w50 { width: 50%; }
+.w60 { width: 60%; }
+.w75 { width: 75%; }
+.w100 { width: 100%; }
+/*像素宽度定义*/
+.w10p{ width: 10px; }
+.w20p{ width: 20px; }
+.w30p{ width: 30px; }
+.w40p{ width: 40px; }
+.w50p{ width: 50px; }
+.w60p{ width: 60px; }
+.w70p{ width: 70px; }
+.w80p{ width: 80px; }
+.w90p{ width: 90px; }
+.w100p{ width: 100px; }
+.w120p{ width: 120px; }
+.w140p{ width: 140px; }
+.w160p{ width: 160px; }
+.w180p{ width: 180px; }
+.w200p{ width: 200px; }
+.w220p{ width: 220px; }
+.w240p{ width: 240px; }
+.w260p{ width: 260px; }
+.w280p{ width: 280px; }
+.w300p{ width: 300px; }
+.w320p{ width: 320px; }
+.w340p{ width: 340px; }
+.w360p{ width: 360px; }
+.w380p{ width: 380px; }
+.w400p{ width: 400px; }
+.w420p{ width: 420px; }
+.w440p{ width: 440px; }
+.w460p{ width: 460px; }
+.w480p{ width: 480px; }
+.w500p{ width: 500px; }
+.w520p{ width: 520px; }
+.w540p{ width: 540px; }
+.w560p{ width: 560px; }
+.w580p{ width: 580px; }
+.w600p{ width: 600px; }
+.w620p{ width: 620px; }
+.w640p{ width: 640px; }
+.w660p{ width: 660px; }
+.w680p{ width: 680px; }
+.w700p{ width: 700px; }
+.w720p{ width: 720px; }
+.w740p{ width: 740px; }
+.w760p{ width: 760px; }
+.w780p{ width: 780px; }
+.w800p{ width: 800px; }
+.w820p{ width: 820px; }
+.w840p{ width: 840px; }
+.w860p{ width: 860px; }
+.w880p{ width: 880px; }
+.w900p{ width: 900px; }
+.w920p{ width: 920px; }
+.w940p{ width: 940px; }
+.w960p{ width: 960px; }
+.w960p{ width: 960px; }
+.w980p{ width: 980px; }
+.w1000p{ width: 1000px; }
+/*上下内边距定义*/
+.ptb10{padding-top: 10px;padding-bottom: 10px;}
+.ptb20{padding-top: 20px;padding-bottom: 20px;}
+.ptb30{padding-top: 30px;padding-bottom: 30px;}
+.ptb40{padding-top: 40px;padding-bottom: 40px;}
+.ptb50{padding-top: 50px;padding-bottom: 50px;}
+.ptb60{padding-top: 60px;padding-bottom: 60px;}
+.ptb70{padding-top: 70px;padding-bottom: 70px;}
+.ptb80{padding-top: 80px;padding-bottom: 80px;}
+.ptb90{padding-top: 90px;padding-bottom: 90px;}
+.ptb100{padding-top: 100px;padding-bottom: 100px;}
+.ptb200{padding-top: 200px;padding-bottom: 200px;}
+/*左右内边距定义*/
+.plr10{padding-left: 10px;padding-right: 10px;}
+.plr20{padding-left: 20px;padding-right: 20px;}
+.plr30{padding-left: 30px;padding-right: 30px;}
+.plr40{padding-left: 40px;padding-right: 40px;}
+.plr50{padding-left: 50px;padding-right: 50px;}
+.plr60{padding-left: 60px;padding-right: 60px;}
+.plr70{padding-left: 70px;padding-right: 70px;}
+.plr80{padding-left: 80px;padding-right: 80px;}
+.plr90{padding-left: 90px;padding-right: 90px;}
+.plr100{padding-left: 100px;padding-right: 100px;}
+.plr200{padding-left: 200px;padding-right: 200px;}
+/*上下外边距定义*/
+.mtb10{margin-top: 10px;margin-bottom: 10px;}
+.mtb20{margin-top: 20px;margin-bottom: 20px;}
+.mtb30{margin-top: 30px;margin-bottom: 30px;}
+.mtb40{margin-top: 40px;margin-bottom: 40px;}
+.mtb50{margin-top: 50px;margin-bottom: 50px;}
+.mtb60{margin-top: 60px;margin-bottom: 60px;}
+.mtb70{margin-top: 70px;margin-bottom: 70px;}
+.mtb80{margin-top: 80px;margin-bottom: 80px;}
+.mtb90{margin-top: 90px;margin-bottom: 90px;}
+.mtb100{margin-top: 100px;margin-bottom: 100px;}
+.mtb200{margin-top: 200px;margin-bottom: 200px;}
+/*左右外边距定义*/
+.mlr10{margin-left: 10px;margin-right: 10px;}
+.mlr20{margin-left: 20px;margin-right: 20px;}
+.mlr30{margin-left: 30px;margin-right: 30px;}
+.mlr40{margin-left: 40px;margin-right: 40px;}
+.mlr50{margin-left: 50px;margin-right: 50px;}
+.mlr60{margin-left: 60px;margin-right: 60px;}
+.mlr70{margin-left: 70px;margin-right: 70px;}
+.mlr80{margin-left: 80px;margin-right: 80px;}
+.mlr90{margin-left: 90px;margin-right: 90px;}
+.mlr100{margin-left: 100px;margin-right: 100px;}
+.mlr200{margin-left: 200px;margin-right: 200px;}
+/*line定义*/
+.line1 { padding: 20px 0; margin: 20px 0; border-bottom: 1px dotted #ddd; }/*点线*/
+.line2 { padding: 20px 0; margin: 20px 0; border-bottom: 1px dashed #ddd; }/*虚线*/
+/*bootstrap增加彩色按钮定义*/
+.btn-pink { color: #fff; background-color: #ff008e; border-color: #e4007f; }
+.btn-pink.active, .btn-pink.focus, .btn-pink:active, .btn-pink:focus, .btn-pink:hover, .open>.dropdown-toggle.btn-pink { color: #fff; background-color: #df007c; border-color: #c7006f; }
+.btn-cyan { color: #fff; background-color: #00a0e9; border-color: #08c; }
+.btn-cyan.active, .btn-cyan.focus, .btn-cyan:active, .btn-cyan:focus, .btn-cyan:hover, .open>.dropdown-toggle.btn-cyan { color: #fff; background-color: #08c; border-color: #0074ae; }
+.btn-purple { color: #fff; background-color: #9b59b6; border-color: #8e44ad; }
+.btn-purple.active, .btn-purple.focus, .btn-purple:active, .btn-purple:focus, .btn-purple:hover, .open>.dropdown-toggle.btn-purple { color: #fff; background-color: #8e44ad; border-color: #7b3b96; }
+.btn-orange { color: #fff; background-color: #f45717; border-color: #e65115; }
+.btn-orange.active, .btn-orange.focus, .btn-orange:active, .btn-orange:focus, .btn-orange:hover, .open>.dropdown-toggle.btn-orange { color: #fff; background-color: #e65115; border-color: #d84c13; }
+.btn-green { color: #fff; background-color: #1bad90; border-color: #189f85; }
+.btn-green.active, .btn-green.focus, .btn-green:active, .btn-green:focus, .btn-green:hover, .open>.dropdown-toggle.btn-green { color: #fff; background-color: #189f85; border-color: #15927a; }
