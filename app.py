@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
 '''
-@文件    :main.py
 @说明    :
 @时间    :2020/12/08 20:38:24
 @版本    :1.0
