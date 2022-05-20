@@ -38,7 +38,7 @@ def index():
 def style():
     r1 = random.randint(0, 255)
     r2 = random.randint(0, 255)
-    # logging.info("random: {}".format(r1 * 256 + r2))
+    # logging.info("random:  {}".format(r1 * 256 + r2))
     return render_template('style.css', random1=r1, random2=r2)
 
 
