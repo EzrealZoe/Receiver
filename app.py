@@ -66,14 +66,14 @@ def compute():
                 interval = round((t - ipd[0]).total_seconds() / 10)
                 if interval > 4:
                     ipd.append(4)
-                elif interval == 0:
+                elif interval <= 0:
                     ipd.append(1)
                 else:
                     ipd.append(interval)
 
     dic = ['', '00', '01', '11', '10']
     msg = ""
-    for i in range(1, len(ipd)):
+    for i in range(1, len(ipd) -1):
         msg += dic[ipd[i]]
     file_handle.close()
     return {"code": 200, "data": msg}
