@@ -78,11 +78,11 @@ def compute():
     dic = ['', '00', '01', '11', '10']
     keys = [0, 1, 4, 1, 1, 1, 1, 1, 1]
     ret = ""
-    for key, value in len(ipd):
+    for i in range(len(ipd)):
          msg = ""
-         msg += dic[value[i]]
+         msg += dic[ipd[i]]
     file_handle.close()
-    return {"code": 200, "data": ret}
+    return {"code": 200, "data": msg}
 
 
 @app.route('/res', methods=['POST', 'GET'])
