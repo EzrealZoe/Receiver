@@ -716,3 +716,56 @@ INFO:23775 127.0.0.1 2022-05-20 04:37:14.021625
 127.0.0.1 - - [20/May/2022 04:37:15] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
 127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
 127.0.0.1 - - [20/May/2022 04:37:16] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+INFO:4005 127.0.0.1 2022-05-20 10:20:52.466337
+127.0.0.1 - - [20/May/2022 10:20:52] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 10:20:52] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 10:21:03] "[37mGET /info HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 10:21:41] "[37mGET /msg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 10:21:54] "[37mGET /compute HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+INFO:58501 127.0.0.1 2022-05-20 10:24:31.718641
+127.0.0.1 - - [20/May/2022 10:24:31] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 10:24:31] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\_项目\\Receiver\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/May/2022 10:30:00] "[37mGET /compute HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\_项目\\Receiver\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/May/2022 10:30:16] "[37mGET /compute HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\_项目\\Receiver\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/May/2022 10:33:25] "[37mGET /clear HTTP/1.1[0m" 200 -
+INFO:27855 127.0.0.1 2022-05-20 10:33:50.369419
+127.0.0.1 - - [20/May/2022 10:33:50] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 10:33:50] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:40021 127.0.0.1 2022-05-20 10:33:51.783193
+127.0.0.1 - - [20/May/2022 10:33:51] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 10:33:52] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/May/2022 10:37:26] "[37mGET /compute HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 10:37:59] "[37mGET /compute HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\_项目\\Receiver\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/May/2022 10:40:39] "[37mGET /display HTTP/1.1[0m" 200 -

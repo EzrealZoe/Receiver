@@ -30,8 +30,9 @@ for line in open("info.log", "r", encoding='UTF-8'):
         else:
             ipd[ip] = [t]
 
-dic = ['','00', '01', '11', '10']
-keys = [0, 1, 4, 1, 1, 1, 1, 1, 1]
+dic = ['', '00', '01', '11', '10']
+keys = [0, 1, 4, 1, 1, 1, 1, 1, 2]
+print(ipd)
 for key, value in ipd.items():
     if len(value) > 9:
         flag = True
