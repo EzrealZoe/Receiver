@@ -78,6 +78,17 @@ def compute():
     file_handle.close()
     return {"code": 200, "data": msg}
 
+@app.route('/ss', methods=['POST', 'GET'])
+def ss():
+    file_handle = open('msg.txt', mode='w')
+
+    ipd = []
+    j = 1
+    msg = ""
+    for line in open("info.log", "r", encoding='UTF-8'):
+        if 'INFO:' in line:
+            msg += line
+    return {"a":msg}
 
 @app.route('/res', methods=['POST', 'GET'])
 def res():
