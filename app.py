@@ -49,7 +49,6 @@ def compute():
     ipd = []
     j = 1
     for line in open("info.log", "r", encoding='UTF-8'):
-
         if 'INFO:' in line:
             line = line[5:]
             i = 1
@@ -62,17 +61,18 @@ def compute():
                 i += 1
             ip = line[:i]
             t = datetime.strptime(line[i + 1:-1], '%Y-%m-%d %H:%M:%S.%f')
-            if j == 1:
-                ipd = [t]
-                j += 1
+
             interval = round((t - ipd[0]).total_seconds() / 10)
-            if interval > 4:
-                ipd.append(4)
-            elif interval == 0:
-                ipd.append(1)
+            if j == 1:
+                ipd = [interval]
+                j += 1
             else:
-                ipd.append(interval)
-            ipd[0] = t
+                if interval > 4:
+                    ipd.append(4)
+                elif interval == 0:
+                    ipd.append(1)
+                else:
+                    ipd.append(interval)
 
     dic = ['', '00', '01', '11', '10']
     keys = [0, 1, 4, 1, 1, 1, 1, 1, 1]
