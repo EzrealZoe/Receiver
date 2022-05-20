@@ -46,11 +46,10 @@ def style():
 def compute():
     file_handle = open('msg.txt', mode='w')
 
-
-
     ipd = []
+    j = 1
     for line in open("info.log", "r", encoding='UTF-8'):
-        i += 1
+
         if 'INFO:' in line:
             line = line[5:]
             i = 1
@@ -63,8 +62,9 @@ def compute():
                 i += 1
             ip = line[:i]
             t = datetime.strptime(line[i + 1:-1], '%Y-%m-%d %H:%M:%S.%f')
-            if i == 1:
+            if j == 1:
                 ipd = [t]
+                j += 1
             interval = round((t - ipd[0]).total_seconds() / 10)
             if interval > 4:
                 ipd.append(4)
@@ -74,13 +74,12 @@ def compute():
                 ipd.append(interval)
             ipd[0] = t
 
-
     dic = ['', '00', '01', '11', '10']
     keys = [0, 1, 4, 1, 1, 1, 1, 1, 1]
     ret = ""
     for i in range(len(ipd)):
-         msg = ""
-         msg += dic[ipd[i]]
+        msg = ""
+        msg += dic[ipd[i]]
     file_handle.close()
     return {"code": 200, "data": msg}
 
