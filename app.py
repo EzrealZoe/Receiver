@@ -46,8 +46,11 @@ def style():
 def compute():
     file_handle = open('msg.txt', mode='w')
 
-    ipd = {}
+
+
+    ipd = []
     for line in open("info.log", "r", encoding='UTF-8'):
+        i += 1
         if 'INFO:' in line:
             line = line[5:]
             i = 1
@@ -60,34 +63,24 @@ def compute():
                 i += 1
             ip = line[:i]
             t = datetime.strptime(line[i + 1:-1], '%Y-%m-%d %H:%M:%S.%f')
-            if ipd.get(ip):
-                interval = round((t - ipd[ip][0]).total_seconds() / 10)
-                if interval > 4:
-                    ipd[ip].append(4)
-                elif interval == 0:
-                    ipd[ip].append(1)
-                else:
-                    ipd[ip].append(interval)
-                ipd[ip][0] = t
+            if i == 1:
+                ipd = [t]
+            interval = round((t - ipd[0]).total_seconds() / 10)
+            if interval > 4:
+                ipd.append(4)
+            elif interval == 0:
+                ipd.append(1)
             else:
-                ipd[ip] = [t]
+                ipd.append(interval)
+            ipd[0] = t
+
 
     dic = ['', '00', '01', '11', '10']
     keys = [0, 1, 4, 1, 1, 1, 1, 1, 1]
     ret = ""
-    for key, value in ipd.items():
-        if len(value) > 9:
-            flag = True
-            for i in range(1, 9):
-                if value[i] != keys[i]:
-                    flag = False
-                    break
-            if flag:
-                msg = ""
-                for i in range(9, len(value)):
-                    msg += dic[value[i]]
-                file_handle.write(msg + '\n')
-                ret += (msg + '\n')
+    for key, value in len(ipd):
+         msg = ""
+         msg += dic[value[i]]
     file_handle.close()
     return {"code": 200, "data": ret}
 

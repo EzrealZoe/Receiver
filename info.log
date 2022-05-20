@@ -1,0 +1,846 @@
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+INFO:16576 127.0.0.1 2022-05-20 09:06:39.120730
+127.0.0.1 - - [20/May/2022 09:06:39] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:06:39] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:33283 127.0.0.1 2022-05-20 09:06:46.001139
+127.0.0.1 - - [20/May/2022 09:06:46] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:06:46] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:31052 127.0.0.1 2022-05-20 09:07:33.532327
+127.0.0.1 - - [20/May/2022 09:07:33] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:33] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:7476 127.0.0.1 2022-05-20 09:07:40.091827
+127.0.0.1 - - [20/May/2022 09:07:40] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:40] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:28373 127.0.0.1 2022-05-20 09:07:44.675327
+127.0.0.1 - - [20/May/2022 09:07:44] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:45] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:10336 127.0.0.1 2022-05-20 09:07:46.586779
+127.0.0.1 - - [20/May/2022 09:07:46] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:46] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:58156 127.0.0.1 2022-05-20 09:07:48.181248
+127.0.0.1 - - [20/May/2022 09:07:48] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:48] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:37174 127.0.0.1 2022-05-20 09:07:49.493775
+127.0.0.1 - - [20/May/2022 09:07:49] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:49] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:30631 127.0.0.1 2022-05-20 09:07:50.461715
+127.0.0.1 - - [20/May/2022 09:07:50] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:50] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:15784 127.0.0.1 2022-05-20 09:07:51.393393
+127.0.0.1 - - [20/May/2022 09:07:51] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:51] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:48344 127.0.0.1 2022-05-20 09:07:52.182034
+127.0.0.1 - - [20/May/2022 09:07:52] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:52] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:5235 127.0.0.1 2022-05-20 09:07:52.976450
+127.0.0.1 - - [20/May/2022 09:07:52] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:53] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:39477 127.0.0.1 2022-05-20 09:07:53.635363
+127.0.0.1 - - [20/May/2022 09:07:53] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:53] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:18028 127.0.0.1 2022-05-20 09:07:54.298621
+127.0.0.1 - - [20/May/2022 09:07:54] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:54] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:55830 127.0.0.1 2022-05-20 09:07:54.976910
+127.0.0.1 - - [20/May/2022 09:07:54] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:55] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:28929 127.0.0.1 2022-05-20 09:07:55.579670
+127.0.0.1 - - [20/May/2022 09:07:55] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:55] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:53435 127.0.0.1 2022-05-20 09:07:56.331756
+127.0.0.1 - - [20/May/2022 09:07:56] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:56] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:4589 127.0.0.1 2022-05-20 09:07:56.915943
+127.0.0.1 - - [20/May/2022 09:07:56] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:57] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:6790 127.0.0.1 2022-05-20 09:07:57.561283
+127.0.0.1 - - [20/May/2022 09:07:57] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:57] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:63874 127.0.0.1 2022-05-20 09:07:58.245616
+127.0.0.1 - - [20/May/2022 09:07:58] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:58] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:41861 127.0.0.1 2022-05-20 09:07:58.851263
+127.0.0.1 - - [20/May/2022 09:07:58] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:59] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:27881 127.0.0.1 2022-05-20 09:07:59.505832
+127.0.0.1 - - [20/May/2022 09:07:59] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:07:59] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:39185 127.0.0.1 2022-05-20 09:08:00.163210
+127.0.0.1 - - [20/May/2022 09:08:00] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:08:00] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:32321 127.0.0.1 2022-05-20 09:08:00.801122
+127.0.0.1 - - [20/May/2022 09:08:00] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:08:01] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:36028 127.0.0.1 2022-05-20 09:08:01.404917
+127.0.0.1 - - [20/May/2022 09:08:01] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:08:01] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:41419 127.0.0.1 2022-05-20 09:08:02.031519
+127.0.0.1 - - [20/May/2022 09:08:02] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:08:02] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:1938 127.0.0.1 2022-05-20 09:08:02.671848
+127.0.0.1 - - [20/May/2022 09:08:02] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:08:03] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:6398 127.0.0.1 2022-05-20 09:08:03.292929
+127.0.0.1 - - [20/May/2022 09:08:03] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:08:03] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:64410 127.0.0.1 2022-05-20 09:08:03.872909
+127.0.0.1 - - [20/May/2022 09:08:03] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:08:04] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:24786 127.0.0.1 2022-05-20 09:08:04.526235
+127.0.0.1 - - [20/May/2022 09:08:04] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:08:04] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:58025 127.0.0.1 2022-05-20 09:08:05.395733
+127.0.0.1 - - [20/May/2022 09:08:05] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:08:05] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:6782 127.0.0.1 2022-05-20 09:08:06.292622
+127.0.0.1 - - [20/May/2022 09:08:06] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:08:06] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:57575 127.0.0.1 2022-05-20 09:08:08.503537
+127.0.0.1 - - [20/May/2022 09:08:08] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:08:08] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:52276 127.0.0.1 2022-05-20 09:08:10.181497
+127.0.0.1 - - [20/May/2022 09:08:10] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:08:10] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:25611 127.0.0.1 2022-05-20 09:08:11.398275
+127.0.0.1 - - [20/May/2022 09:08:11] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:08:11] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:59338 127.0.0.1 2022-05-20 09:08:12.385854
+127.0.0.1 - - [20/May/2022 09:08:12] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:08:12] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:58884 127.0.0.1 2022-05-20 09:16:34.348931
+127.0.0.1 - - [20/May/2022 09:16:34] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:16:34] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:45632 127.0.0.1 2022-05-20 09:16:36.523910
+127.0.0.1 - - [20/May/2022 09:16:36] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:16:36] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:64942 127.0.0.1 2022-05-20 09:16:38.343686
+127.0.0.1 - - [20/May/2022 09:16:38] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:16:38] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:6451 127.0.0.1 2022-05-20 09:16:39.931211
+127.0.0.1 - - [20/May/2022 09:16:39] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:16:40] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+INFO:33499 127.0.0.1 2022-05-20 09:22:04.359140
+127.0.0.1 - - [20/May/2022 09:22:04] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:22:04] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:1321 127.0.0.1 2022-05-20 09:22:12.516055
+127.0.0.1 - - [20/May/2022 09:22:12] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:22:12] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:26011 127.0.0.1 2022-05-20 09:22:18.054196
+127.0.0.1 - - [20/May/2022 09:22:18] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 09:22:18] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+INFO:16230 127.0.0.1 2022-05-20 09:28:53.242905
+127.0.0.1 - - [20/May/2022 04:28:53] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:28:53] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:25370 127.0.0.1 2022-05-20 09:29:03.321895
+127.0.0.1 - - [20/May/2022 04:29:03] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:03] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:09] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:15] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:16] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:29:16] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:29:16] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:19] "[37mGET /static/index.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:20] "[37mGET /static/libs/css/animate.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:20] "[37mGET /static/libs/css/feng.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:20] "[37mGET /static/libs/css/responsive-layered-slider.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:20] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:20] "[37mGET /static/libs/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:20] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:20] "[37mGET /static/libs/videojs/video-js.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:20] "[37mGET /static/libs/js/ie-emulation-modes-warning.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:20] "[37mGET /static/libs/videojs/video.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:20] "[37mGET /static/libs/videojs/videojs-ie8.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:20] "[37mGET /static/img/public/logo3.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:20] "[37mGET /static/img/home/sn1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:20] "[37mGET /static/img/home/jd.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:20] "[37mGET /static/img/home/tit2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:20] "[37mGET /static/img/home/tm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:20] "[37mGET /static/img/home/gm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:21] "[37mGET /static/img/home/about1.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:21] "[37mGET /static/img/home/bao-p1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:21] "[37mGET /static/img/public/bili.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:21] "[37mGET /static/libs/js/jquery-2.1.1.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:21] "[37mGET /static/libs/js/wow.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:21] "[37mGET /static/libs/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:21] "[37mGET /static/libs/js/jquery-ui-1.10.4.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:21] "[37mGET /static/libs/js/responsive-layered-slider.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:21] "[37mGET /static/libs/js/ie10-viewport-bug-workaround.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:21] "[37mGET /static/libs/js/jquery.toTop.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:21] "[37mGET /static/img/home/bao-p2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:21] "[37mGET /static/js/script.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:21] "[37mGET /static/img/public/problem.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:21] "[37mGET /static/img/home/hezuo.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:21] "[37mGET /static/img/home/contact-tit.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:21] "[37mGET /static/img/public/top.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:21] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:29:21] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:22] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:29:30] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:29:49] "[37mGET /static/index.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:49] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:49] "[37mGET /static/libs/css/feng.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:49] "[37mGET /static/libs/css/responsive-layered-slider.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:49] "[37mGET /static/libs/css/animate.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:49] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:49] "[37mGET /static/libs/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:49] "[37mGET /static/libs/js/ie-emulation-modes-warning.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:49] "[37mGET /static/libs/videojs/video-js.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:49] "[37mGET /static/libs/videojs/videojs-ie8.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:49] "[37mGET /static/libs/videojs/video.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:49] "[37mGET /static/img/home/gm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:50] "[37mGET /static/img/public/logo3.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:50] "[37mGET /static/img/home/bao-p1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:50] "[37mGET /static/img/home/tit2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:50] "[37mGET /static/img/home/tm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:50] "[37mGET /static/img/home/bao-p2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:50] "[37mGET /static/img/home/about1.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:50] "[37mGET /static/img/home/jd.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:50] "[37mGET /static/img/home/sn1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:50] "[37mGET /static/img/public/bili.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:50] "[37mGET /static/libs/js/jquery-2.1.1.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:50] "[37mGET /static/libs/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:50] "[37mGET /static/libs/js/wow.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:50] "[37mGET /static/libs/js/jquery-ui-1.10.4.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:50] "[37mGET /static/libs/js/responsive-layered-slider.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:50] "[37mGET /static/libs/js/ie10-viewport-bug-workaround.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:50] "[37mGET /static/js/script.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:50] "[37mGET /static/libs/js/jquery.toTop.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:50] "[37mGET /static/img/public/problem.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:51] "[37mGET /static/img/home/hezuo.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:51] "[37mGET /static/img/home/contact-tit.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:51] "[37mGET /static/img/public/top.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:51] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:29:51] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:29:51] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:30:02] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:30:02] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:30:04] "[37mGET /static/loginCode.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:30:04] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:30:04] "[37mGET /static/img/public/code1.jpg HTTP/1.1[0m" 200 -
+INFO:40545 127.0.0.1 2022-05-20 09:30:20.544716
+127.0.0.1 - - [20/May/2022 04:30:20] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:30:20] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:30:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:50707 127.0.0.1 2022-05-20 09:30:47.137155
+127.0.0.1 - - [20/May/2022 04:30:47] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:30:47] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:30:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:36891 127.0.0.1 2022-05-20 09:30:49.300131
+127.0.0.1 - - [20/May/2022 04:30:49] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:30:49] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:30:57] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:31:01] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:31:02] "[37mGET /static/loginCode.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:31:02] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:31:02] "[37mGET /static/img/public/code1.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:31:04] "[37mGET /static/about.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:31:04] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:31:04] "[37mGET /static/img/about/asdl.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:31:04] "[37mGET /static/img/public/ljf.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:31:05] "[37mGET /static/img/public/zmx.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:31:05] "[37mGET /static/img/public/zzc.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:31:05] "[37mGET /static/img/public/ly.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:31:06] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:60413 127.0.0.1 2022-05-20 09:31:31.788719
+127.0.0.1 - - [20/May/2022 04:31:31] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:31:32] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:24846 127.0.0.1 2022-05-20 09:31:34.125608
+127.0.0.1 - - [20/May/2022 04:31:34] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:31:34] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:17763 127.0.0.1 2022-05-20 09:31:48.737223
+127.0.0.1 - - [20/May/2022 04:31:48] "[37mGET / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\_项目\\Receiver\\main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/May/2022 04:31:50] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:58486 127.0.0.1 2022-05-20 09:31:56.701845
+127.0.0.1 - - [20/May/2022 04:31:56] "[37mGET / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\_项目\\Receiver\\main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+INFO:51648 127.0.0.1 2022-05-20 09:32:00.068112
+127.0.0.1 - - [20/May/2022 04:32:00] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:24085 127.0.0.1 2022-05-20 09:32:01.509708
+127.0.0.1 - - [20/May/2022 04:32:01] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:48244 127.0.0.1 2022-05-20 09:32:13.178142
+127.0.0.1 - - [20/May/2022 04:32:13] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:13] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:45294 127.0.0.1 2022-05-20 09:32:40.841999
+127.0.0.1 - - [20/May/2022 04:32:40] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:44] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:32:44] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:32:45] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:33074 127.0.0.1 2022-05-20 09:32:47.828551
+127.0.0.1 - - [20/May/2022 04:32:47] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:48] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:48] "[37mGET /static/libs/css/animate.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:48] "[37mGET /static/libs/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:48] "[37mGET /static/libs/css/feng.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:48] "[37mGET /static/libs/css/responsive-layered-slider.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:48] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:48] "[37mGET /static/libs/videojs/video-js.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:48] "[37mGET /static/libs/js/ie-emulation-modes-warning.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:48] "[37mGET /static/libs/videojs/video.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:48] "[37mGET /static/libs/videojs/videojs-ie8.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:48] "[37mGET /static/img/home/head.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:48] "[37mGET /static/img/public/logo3.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:48] "[37mGET /static/img/home/tm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:48] "[37mGET /static/img/home/bao-p2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:48] "[37mGET /static/img/home/tit2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:48] "[37mGET /static/img/home/sn1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:48] "[37mGET /static/img/home/about1.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:49] "[37mGET /static/img/home/bao-p1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:49] "[37mGET /static/img/home/gm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:49] "[37mGET /static/img/public/bili.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:49] "[37mGET /static/img/home/jd.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:49] "[37mGET /static/libs/js/jquery-2.1.1.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:49] "[37mGET /static/libs/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:49] "[37mGET /static/libs/js/wow.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:49] "[37mGET /static/libs/js/jquery-ui-1.10.4.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:49] "[37mGET /static/libs/js/responsive-layered-slider.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:49] "[37mGET /static/libs/js/ie10-viewport-bug-workaround.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:49] "[37mGET /static/libs/js/jquery.toTop.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:49] "[37mGET /static/js/script.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:49] "[37mGET /static/img/public/problem.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:49] "[37mGET /static/img/home/hezuo.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:49] "[37mGET /static/img/home/contact-tit.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:49] "[37mGET /static/img/public/top.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:49] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:32:49] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:50] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+INFO:10255 127.0.0.1 2022-05-20 09:32:53.574977
+127.0.0.1 - - [20/May/2022 04:32:53] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:53] "[37mGET /static/libs/css/animate.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:53] "[37mGET /static/libs/css/responsive-layered-slider.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:53] "[37mGET /static/libs/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:53] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:53] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:53] "[37mGET /static/libs/css/feng.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:54] "[37mGET /static/libs/videojs/video-js.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:54] "[37mGET /static/libs/videojs/videojs-ie8.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:54] "[37mGET /static/libs/js/ie-emulation-modes-warning.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:54] "[37mGET /static/libs/videojs/video.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:54] "[37mGET /static/img/public/logo3.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:54] "[37mGET /static/img/home/jd.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:54] "[37mGET /static/img/home/about1.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:54] "[37mGET /static/img/home/bao-p1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:54] "[37mGET /static/img/home/bao-p2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:54] "[37mGET /static/img/home/sn1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:54] "[37mGET /static/img/home/tm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:54] "[37mGET /static/img/home/gm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:54] "[37mGET /static/img/home/tit2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:54] "[37mGET /static/libs/js/jquery-2.1.1.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:54] "[37mGET /static/libs/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:54] "[37mGET /static/libs/js/wow.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:55] "[37mGET /static/libs/js/jquery-ui-1.10.4.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:55] "[37mGET /static/libs/js/ie10-viewport-bug-workaround.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:55] "[37mGET /static/libs/js/jquery.toTop.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:55] "[37mGET /static/libs/js/responsive-layered-slider.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:55] "[37mGET /static/js/script.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:55] "[37mGET /static/img/public/bili.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:55] "[37mGET /static/img/public/problem.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:55] "[37mGET /static/img/home/hezuo.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:55] "[37mGET /static/img/public/top.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:55] "[37mGET /static/img/home/contact-tit.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:55] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:32:55] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:32:55] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+INFO:20982 10.208.112.11 2022-05-20 09:33:10.954057
+10.208.112.11 - - [20/May/2022 04:33:10] "[37mGET / HTTP/1.1[0m" 200 -
+10.208.112.11 - - [20/May/2022 04:33:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:12466 10.208.112.11 2022-05-20 09:33:14.430965
+10.208.112.11 - - [20/May/2022 04:33:14] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:33:33] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:33:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:39739 127.0.0.1 2022-05-20 09:34:33.617270
+127.0.0.1 - - [20/May/2022 04:34:33] "[37mGET / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\_项目\\Receiver\\main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+INFO:41258 127.0.0.1 2022-05-20 09:34:36.178136
+127.0.0.1 - - [20/May/2022 04:34:36] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:37] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\_项目\\Receiver\\main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/May/2022 04:34:49] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:34:49] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:34:50] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:25558 127.0.0.1 2022-05-20 09:34:51.731449
+127.0.0.1 - - [20/May/2022 04:34:51] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:52] "[37mGET /static/libs/css/animate.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:52] "[37mGET /static/libs/css/responsive-layered-slider.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:52] "[37mGET /static/libs/css/feng.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:52] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:52] "[37mGET /static/libs/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:52] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:52] "[37mGET /static/libs/videojs/video-js.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:52] "[37mGET /static/libs/js/ie-emulation-modes-warning.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:52] "[37mGET /static/libs/videojs/videojs-ie8.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:52] "[37mGET /static/libs/videojs/video.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:52] "[37mGET /static/img/home/bao-p1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:52] "[37mGET /static/img/home/bao-p2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:52] "[37mGET /static/img/home/sn1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:52] "[37mGET /static/img/public/logo3.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:52] "[37mGET /static/img/home/gm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:52] "[37mGET /static/img/home/jd.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[37mGET /static/img/home/tit2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[37mGET /static/img/home/tm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[37mGET /static/img/home/about1.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[37mGET /static/img/public/bili.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[37mGET /static/libs/js/jquery-2.1.1.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[37mGET /static/libs/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[37mGET /static/libs/js/wow.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[37mGET /static/libs/js/jquery-ui-1.10.4.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[37mGET /static/libs/js/responsive-layered-slider.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[37mGET /static/libs/js/ie10-viewport-bug-workaround.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[37mGET /static/libs/js/jquery.toTop.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[37mGET /static/js/script.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[37mGET /static/img/public/problem.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[37mGET /static/img/home/hezuo.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[37mGET /static/img/home/contact-tit.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[37mGET /static/img/public/top.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:34:53] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+INFO:27447 127.0.0.1 2022-05-20 09:35:17.475185
+127.0.0.1 - - [20/May/2022 04:35:17] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:17] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:17] "[37mGET /static/libs/css/responsive-layered-slider.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:17] "[37mGET /static/libs/css/animate.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:17] "[37mGET /static/libs/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:17] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:17] "[37mGET /static/libs/css/feng.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:18] "[37mGET /static/libs/videojs/video-js.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:18] "[37mGET /static/libs/js/ie-emulation-modes-warning.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:18] "[37mGET /static/libs/videojs/videojs-ie8.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:18] "[37mGET /static/libs/videojs/video.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:18] "[37mGET /static/img/home/jd.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:18] "[37mGET /static/img/home/tit2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:18] "[37mGET /static/img/public/logo3.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:18] "[37mGET /static/img/home/sn1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:18] "[37mGET /static/img/home/tm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:18] "[37mGET /static/img/home/gm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:18] "[37mGET /static/img/home/about1.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:18] "[37mGET /static/img/home/bao-p1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:18] "[37mGET /static/img/home/bao-p2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:18] "[37mGET /static/img/public/bili.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:18] "[37mGET /static/libs/js/jquery-2.1.1.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:18] "[37mGET /static/libs/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:19] "[37mGET /static/libs/js/wow.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:19] "[37mGET /static/libs/js/responsive-layered-slider.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:19] "[37mGET /static/libs/js/jquery-ui-1.10.4.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:19] "[37mGET /static/libs/js/ie10-viewport-bug-workaround.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:19] "[37mGET /static/libs/js/jquery.toTop.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:19] "[37mGET /static/js/script.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:19] "[37mGET /static/img/public/problem.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:19] "[37mGET /static/img/home/hezuo.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:19] "[37mGET /static/img/home/contact-tit.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:19] "[37mGET /static/img/public/top.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:19] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:35:19] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:19] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+INFO:24933 127.0.0.1 2022-05-20 09:35:51.835832
+127.0.0.1 - - [20/May/2022 04:35:51] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:52] "[37mGET /static/libs/css/animate.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:52] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:52] "[37mGET /static/libs/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:52] "[37mGET /static/libs/css/responsive-layered-slider.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:52] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:52] "[37mGET /static/libs/css/feng.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:52] "[37mGET /static/libs/videojs/videojs-ie8.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:52] "[37mGET /static/libs/videojs/video-js.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:52] "[37mGET /static/libs/js/ie-emulation-modes-warning.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:52] "[37mGET /static/libs/videojs/video.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:52] "[37mGET /static/img/home/tit2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:52] "[37mGET /static/img/home/bao-p1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:52] "[37mGET /static/img/home/sn1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:52] "[37mGET /static/img/public/logo3.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:52] "[37mGET /static/img/home/bao-p2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:52] "[37mGET /static/img/home/jd.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:53] "[37mGET /static/img/home/tm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:53] "[37mGET /static/img/home/gm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:53] "[37mGET /static/img/public/bili.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:53] "[37mGET /static/img/home/about1.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:53] "[37mGET /static/libs/js/jquery-2.1.1.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:53] "[37mGET /static/libs/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:53] "[37mGET /static/libs/js/wow.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:53] "[37mGET /static/libs/js/jquery-ui-1.10.4.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:53] "[37mGET /static/libs/js/responsive-layered-slider.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:53] "[37mGET /static/libs/js/ie10-viewport-bug-workaround.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:53] "[37mGET /static/js/script.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:53] "[37mGET /static/libs/js/jquery.toTop.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:53] "[37mGET /static/img/public/problem.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:53] "[37mGET /static/img/public/top.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:53] "[37mGET /static/img/home/contact-tit.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:53] "[37mGET /static/img/home/hezuo.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:53] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:35:53] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:35:54] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+INFO:16817 127.0.0.1 2022-05-20 09:36:05.001326
+127.0.0.1 - - [20/May/2022 04:36:05] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:05] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:05] "[37mGET /static/libs/css/responsive-layered-slider.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:05] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:05] "[37mGET /static/libs/css/animate.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:05] "[37mGET /static/libs/css/feng.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:05] "[37mGET /static/libs/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:05] "[37mGET /static/libs/videojs/videojs-ie8.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:05] "[37mGET /static/libs/js/ie-emulation-modes-warning.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:05] "[37mGET /static/libs/videojs/video.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:05] "[37mGET /static/libs/videojs/video-js.css HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\_项目\\Receiver\\main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/May/2022 04:36:08] "[37mGET /static/img/home/about1.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:08] "[37mGET /static/img/home/gm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:08] "[37mGET /static/img/public/bili.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:08] "[37mGET /static/img/home/bao-p1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:08] "[37mGET /static/img/home/sn1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:08] "[37mGET /static/img/home/jd.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:08] "[37mGET /static/img/home/tit2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:08] "[37mGET /static/img/public/logo3.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:08] "[37mGET /static/img/home/tm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:08] "[37mGET /static/img/home/bao-p2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:08] "[37mGET /static/libs/js/jquery-2.1.1.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:09] "[37mGET /static/libs/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:09] "[37mGET /static/libs/js/ie10-viewport-bug-workaround.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:09] "[37mGET /static/libs/js/jquery-ui-1.10.4.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:09] "[37mGET /static/libs/js/jquery.toTop.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:09] "[37mGET /static/libs/js/wow.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:09] "[37mGET /static/libs/js/responsive-layered-slider.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:09] "[37mGET /static/js/script.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:09] "[37mGET /static/img/public/problem.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:09] "[37mGET /static/img/home/hezuo.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:09] "[37mGET /static/img/home/contact-tit.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:09] "[37mGET /static/img/public/top.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:09] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:36:09] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:09] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+INFO:40408 127.0.0.1 2022-05-20 09:36:11.047856
+127.0.0.1 - - [20/May/2022 04:36:11] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:11] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:11] "[37mGET /static/libs/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:11] "[37mGET /static/libs/css/animate.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:11] "[37mGET /static/libs/css/feng.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:11] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:11] "[37mGET /static/libs/css/responsive-layered-slider.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:11] "[37mGET /static/libs/videojs/video-js.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:11] "[37mGET /static/libs/videojs/videojs-ie8.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:11] "[37mGET /static/libs/js/ie-emulation-modes-warning.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:11] "[37mGET /static/libs/videojs/video.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/img/home/bao-bg.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/img/home/head.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/img/home/bao-p2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/img/public/logo3.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/img/home/about1.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/img/home/tit2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/img/home/gm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/img/home/jd.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/img/home/tm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/img/home/sn1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/img/home/head2.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/img/home/bao-p1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/libs/js/jquery-2.1.1.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/libs/js/jquery-ui-1.10.4.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/libs/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/libs/js/wow.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/libs/js/responsive-layered-slider.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/libs/js/ie10-viewport-bug-workaround.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:12] "[37mGET /static/libs/js/jquery.toTop.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:13] "[37mGET /static/js/script.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:13] "[37mGET /static/img/public/bili.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:13] "[37mGET /static/img/public/problem.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:13] "[37mGET /static/img/home/hezuo.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:13] "[37mGET /static/img/home/contact-tit.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:13] "[37mGET /static/img/public/top.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:13] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:36:13] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:36:13] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:23] "[37mGET /static/img/public/problem.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:23] "[37mGET /static/img/home/hezuo.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:23] "[37mGET /static/img/home/contact-tit.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:23] "[37mGET /static/img/public/top.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:25] "[37mGET /static/img/home/bao-p2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:25] "[37mGET /static/img/public/logo3.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:25] "[37mGET /static/img/home/tm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:25] "[37mGET /static/img/home/tit2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:25] "[37mGET /static/img/home/jd.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:25] "[37mGET /static/img/home/about1.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:25] "[37mGET /static/img/home/sn1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:25] "[37mGET /static/img/public/bili.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:25] "[37mGET /static/img/home/bao-p1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:25] "[37mGET /static/img/home/gm.png HTTP/1.1[0m" 200 -
+INFO:61486 127.0.0.1 2022-05-20 09:36:39.400471
+127.0.0.1 - - [20/May/2022 04:36:39] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:39] "[37mGET /static/libs/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:39] "[37mGET /static/libs/css/responsive-layered-slider.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:39] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:39] "[37mGET /static/libs/css/animate.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:39] "[37mGET /static/libs/css/feng.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:39] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:40] "[37mGET /static/libs/js/ie-emulation-modes-warning.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:40] "[37mGET /static/libs/videojs/video-js.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:40] "[37mGET /static/libs/videojs/videojs-ie8.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:40] "[37mGET /static/libs/videojs/video.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:40] "[37mGET /static/img/home/tit2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:40] "[37mGET /static/img/home/gm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:40] "[37mGET /static/img/public/logo3.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:40] "[37mGET /static/img/home/tm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:40] "[37mGET /static/img/home/sn1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:40] "[37mGET /static/img/home/bao-p2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:40] "[37mGET /static/img/home/head.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:40] "[37mGET /static/img/home/about1.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:40] "[37mGET /static/img/home/head2.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:40] "[37mGET /static/img/home/jd.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:40] "[37mGET /static/img/home/bao-p1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:40] "[37mGET /static/libs/js/jquery-2.1.1.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:41] "[37mGET /static/libs/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:41] "[37mGET /static/libs/js/wow.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:41] "[37mGET /static/libs/js/jquery-ui-1.10.4.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:41] "[37mGET /static/libs/js/responsive-layered-slider.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:41] "[37mGET /static/libs/js/ie10-viewport-bug-workaround.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:41] "[37mGET /static/libs/js/jquery.toTop.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:41] "[37mGET /static/img/public/bili.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:41] "[37mGET /static/js/script.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:41] "[37mGET /static/img/home/hezuo.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:41] "[37mGET /static/img/public/problem.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:41] "[37mGET /static/img/home/contact-tit.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:41] "[37mGET /static/img/public/top.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:41] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:36:41] "[37mGET /static/img/home/bao-bg.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:41] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:36:41] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:62628 127.0.0.1 2022-05-20 09:36:58.552935
+127.0.0.1 - - [20/May/2022 04:36:58] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:58] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:58] "[37mGET /static/libs/css/responsive-layered-slider.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:58] "[37mGET /static/libs/css/animate.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:58] "[37mGET /static/libs/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:58] "[37mGET /static/libs/css/feng.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:36:58] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\_项目\\Receiver\\main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/May/2022 04:37:01] "[37mGET /static/libs/js/ie-emulation-modes-warning.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:01] "[37mGET /static/libs/videojs/videojs-ie8.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:01] "[37mGET /static/libs/videojs/video-js.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:01] "[37mGET /static/libs/videojs/video.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:01] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:01] "[37mGET /static/img/home/sn1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:01] "[37mGET /static/img/home/gm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:01] "[37mGET /static/img/home/about1.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/img/home/bao-p1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/img/home/bao-p2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/img/home/tm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/img/home/jd.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/img/home/tit2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/img/public/logo3.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/img/home/head.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/libs/js/jquery-2.1.1.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/libs/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/libs/js/wow.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/libs/js/jquery-ui-1.10.4.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/libs/js/responsive-layered-slider.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/libs/js/ie10-viewport-bug-workaround.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/libs/js/jquery.toTop.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/js/script.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/img/public/bili.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/img/public/problem.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/img/home/hezuo.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/img/home/contact-tit.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:02] "[37mGET /static/img/public/top.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:03] "[37mGET /static/img/home/head2.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:03] "[37mGET /static/img/home/bao-bg.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:03] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:37:03] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+INFO:23775 127.0.0.1 2022-05-20 09:37:14.021625
+127.0.0.1 - - [20/May/2022 04:37:14] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:14] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:14] "[37mGET /static/libs/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:14] "[37mGET /static/libs/css/animate.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:14] "[37mGET /static/libs/css/responsive-layered-slider.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:14] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:14] "[37mGET /static/libs/css/feng.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:14] "[37mGET /static/libs/videojs/video-js.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:14] "[37mGET /static/libs/js/ie-emulation-modes-warning.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:14] "[37mGET /static/libs/videojs/videojs-ie8.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:14] "[37mGET /static/libs/videojs/video.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:14] "[37mGET /static/img/home/sn1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/img/home/jd.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/img/home/bao-p1.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/img/home/bao-p2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/img/home/gm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/img/public/logo3.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/img/home/tit2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/img/home/tm.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/img/home/about1.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/img/public/bili.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/libs/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/libs/js/jquery-2.1.1.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/libs/js/wow.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/libs/js/jquery-ui-1.10.4.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/libs/js/ie10-viewport-bug-workaround.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/libs/js/responsive-layered-slider.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/libs/js/jquery.toTop.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/js/script.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/img/public/problem.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/img/home/contact-tit.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/img/home/hezuo.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/img/public/top.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 04:37:15] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 04:37:16] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+INFO:4005 127.0.0.1 2022-05-20 10:20:52.466337
+127.0.0.1 - - [20/May/2022 10:20:52] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 10:20:52] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 10:21:03] "[37mGET /info HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 10:21:41] "[37mGET /msg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 10:21:54] "[37mGET /compute HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+INFO:58501 127.0.0.1 2022-05-20 10:24:31.718641
+127.0.0.1 - - [20/May/2022 10:24:31] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 10:24:31] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\_项目\\Receiver\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/May/2022 10:30:00] "[37mGET /compute HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\_项目\\Receiver\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/May/2022 10:30:16] "[37mGET /compute HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\_项目\\Receiver\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/May/2022 10:33:25] "[37mGET /clear HTTP/1.1[0m" 200 -
+INFO:27855 127.0.0.1 2022-05-20 10:33:50.369419
+127.0.0.1 - - [20/May/2022 10:33:50] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 10:33:50] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:40021 127.0.0.1 2022-05-20 10:33:51.783193
+127.0.0.1 - - [20/May/2022 10:33:51] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 10:33:52] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/May/2022 10:37:26] "[37mGET /compute HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 10:37:59] "[37mGET /compute HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\_项目\\Receiver\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/May/2022 10:40:39] "[37mGET /display HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\_项目\\Receiver\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/May/2022 14:45:20] "[37mGET /display HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 14:45:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 14:45:43] "[37mGET /display HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 14:47:15] "[37mGET /display HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+INFO:3240 127.0.0.1 2022-05-20 15:54:40.051427
+127.0.0.1 - - [20/May/2022 15:54:40] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 15:54:40] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 15:54:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 15:54:45] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 15:54:45] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 15:54:45] "[33mGET /static/libs/videojs/video.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/May/2022 15:54:46] "[37mGET /static/libs/bootstrap-3.3.7/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/May/2022 16:04:21] "[37mGET /info HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:07:06] "[37mGET /compute HTTP/1.1[0m" 200 -
+INFO:44044 127.0.0.1 2022-05-20 16:13:08.624440
+127.0.0.1 - - [20/May/2022 16:13:08] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:13:08] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:13:19] "[37mGET /compute HTTP/1.1[0m" 200 -
+INFO:62838 127.0.0.1 2022-05-20 16:13:36.637709
+127.0.0.1 - - [20/May/2022 16:13:36] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:13:36] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:14:33] "[37mGET /compute HTTP/1.1[0m" 200 -
+INFO:54414 127.0.0.1 2022-05-20 16:14:45.057884
+127.0.0.1 - - [20/May/2022 16:14:45] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:14:45] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:14:47] "[37mGET /compute HTTP/1.1[0m" 200 -
+INFO:29207 127.0.0.1 2022-05-20 16:14:50.753114
+127.0.0.1 - - [20/May/2022 16:14:50] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:14:51] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:14:53] "[37mGET /compute HTTP/1.1[0m" 200 -
+INFO:56703 127.0.0.1 2022-05-20 16:15:00.303157
+127.0.0.1 - - [20/May/2022 16:15:00] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:15:00] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:15:03] "[37mGET /compute HTTP/1.1[0m" 200 -
+INFO:42549 127.0.0.1 2022-05-20 16:15:21.535728
+127.0.0.1 - - [20/May/2022 16:15:21] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:15:21] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:15:23] "[37mGET /compute HTTP/1.1[0m" 200 -
+INFO:57890 127.0.0.1 2022-05-20 16:15:28.212678
+127.0.0.1 - - [20/May/2022 16:15:28] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:15:28] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:15:29] "[37mGET /compute HTTP/1.1[0m" 200 -
+INFO:64413 127.0.0.1 2022-05-20 16:15:52.710740
+127.0.0.1 - - [20/May/2022 16:15:52] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:15:52] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:15:54] "[37mGET /compute HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:16:02] "[37mGET /compute HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/May/2022 16:16:03] "[37mGET /compute HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\_项目\\Receiver\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+ * Detected change in 'E:\\_项目\\Receiver\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 291-516-432
+ * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
