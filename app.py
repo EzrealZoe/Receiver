@@ -115,7 +115,7 @@ def info():
 
 @app.route('/clear', methods=['POST', 'GET'])
 def clear():
-    file_handle = open('msg.txt', mode='w')
+    file_handle = open('info.log', mode='w')
     file_handle.write(' ')
     file_handle.close()
     return {"code": 200}
