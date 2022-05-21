@@ -31,7 +31,7 @@ CORS(app, supports_credentials=True)
 def index():
     r = random.randint(0, 65535)
     logger.info("INFO:" + str(r) + " " + request.remote_addr + " " + datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f'))
-    return render_template('index.html', random=r)
+    return render_template('index.html')
 
 
 @app.route('/change', methods=['POST', 'GET'])
