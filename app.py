@@ -34,6 +34,14 @@ def index():
     return render_template('index.html', random=r)
 
 
+@app.route('/change', methods=['POST', 'GET'])
+def change():
+    file_handle = open('change.txt', mode='w')
+    file_handle.write(request.args.get('id'))
+    file_handle.close()
+
+    return {"code": 200}
+
 # @app.route('/static/css/style.css', methods=['POST', 'GET'])
 # def style():
 #     r1 = random.randint(0, 255)
@@ -44,10 +52,13 @@ def index():
 
 @app.route('/compute', methods=['POST', 'GET'])
 def compute():
-    file_handle = open('msg.txt', mode='w')
-
     ipd = []
     j = 1
+    inter = 0
+    for line in open('change.txt', encoding='UTF-8'):
+        tmp = line
+        inter = float(line)
+
     for line in open("info.log", "r", encoding='UTF-8'):
         if 'INFO:' in line:
             line = line[5:]
@@ -63,7 +74,7 @@ def compute():
                 ipd = [t]
                 j += 1
             else:
-                interval = round((t - ipd[0]).total_seconds() / 10)
+                interval = round((t - ipd[0]).total_seconds() / inter)
                 if interval > 4:
                     ipd.append(4)
                 elif interval <= 0:
@@ -76,7 +87,6 @@ def compute():
     msg = ""
     for i in range(1, len(ipd)):
         msg += dic[ipd[i]]
-    file_handle.close()
     return {"code": 200, "data": msg}
 
 
