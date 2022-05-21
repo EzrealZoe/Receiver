@@ -34,12 +34,12 @@ def index():
     return render_template('index.html', random=r)
 
 
-@app.route('/static/css/style.css', methods=['POST', 'GET'])
-def style():
-    r1 = random.randint(0, 255)
-    r2 = random.randint(0, 255)
-    # logging.info("random:  {}".format(r1 * 256 + r2))
-    return render_template('style.css', random1=r1, random2=r2)
+# @app.route('/static/css/style.css', methods=['POST', 'GET'])
+# def style():
+#     r1 = random.randint(0, 255)
+#     r2 = random.randint(0, 255)
+#     # logging.info("random:  {}".format(r1 * 256 + r2))
+#     return render_template('style.css', random1=r1, random2=r2)
 
 
 @app.route('/compute', methods=['POST', 'GET'])
@@ -70,25 +70,24 @@ def compute():
                     ipd.append(1)
                 else:
                     ipd.append(interval)
+                ipd[0] = t
 
     dic = ['', '00', '01', '11', '10']
     msg = ""
-    for i in range(1, len(ipd) -1):
+    for i in range(1, len(ipd)):
         msg += dic[ipd[i]]
     file_handle.close()
     return {"code": 200, "data": msg}
 
-@app.route('/ss', methods=['POST', 'GET'])
-def ss():
-    file_handle = open('msg.txt', mode='w')
 
-    ipd = []
-    j = 1
+@app.route('/getInfo', methods=['POST', 'GET'])
+def getInfo():
     msg = ""
     for line in open("info.log", "r", encoding='UTF-8'):
         if 'INFO:' in line:
             msg += line
-    return {"a":msg}
+    return {"msg": msg, "time": datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')}
+
 
 @app.route('/res', methods=['POST', 'GET'])
 def res():
